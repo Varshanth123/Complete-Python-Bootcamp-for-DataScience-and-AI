@@ -1,0 +1,17 @@
+Python is the industry-standard language for data analysis due to its simple syntax
+and an incredibly powerful ecosystem of open-source libraries. It allows you to clean, 
+manipulate, visualize, and model complex datasets efficiently within a single environment 
+like JupyterLab.
+
+Here is a complete overview of how to perform data analysis using Python, structured by 
+core libraries and workflow phases.
+
+The Core Python Data Stack
+
+You do not need to build data tools from scratch. Instead, you rely on these essential libraries:
+
+NumPy: Handles fast numerical computations and multidimensional arrays.
+Pandas: The most critical tool for data manipulation. It introduces the DataFrame, a 
+tabular data structure like an Excel sheet.
+Matplotlib & Seaborn: Used to build static, animated, and interactive data visualizations.
+Scikit-learn: The go-to library for basic machine learning and predictive modeling
